@@ -17,7 +17,7 @@
 
 import java.util.Scanner;
 
-public class DescuentosSalario {
+public class DescuentoSalario {
     public static void main(String[] args) {
         //Declaramos variables
         double SalarioBruto, SalarioNeto, AporteAFP, AporteSeguro;
