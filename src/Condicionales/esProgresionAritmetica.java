@@ -47,7 +47,7 @@ public class esProgresionAritmetica {
      * @param tercerNumero  tercer término
      * @return true si forman una progresión aritmética, false en caso contrario
      */
-    static void main() {
+    static void main(String[] args) {
         // Definir variables
         int primerNumero;
         int segundoNumero;
