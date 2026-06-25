@@ -22,8 +22,8 @@ public class ValidarCodigo {
                 esValido=true;
             }else{
                 System.out.println("Formato inválido. Acceso no permitido. Inténtelo nuevamente. ");
-                scanner.nextLine();
             }
         }
+        scanner.close();
     }
 }
